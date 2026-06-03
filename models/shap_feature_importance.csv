@@ -1,0 +1,21 @@
+Feature,Mean_SHAP,Business_Reason
+WEEK_NUM,0.4377899086875035,Week Num
+bura1_count,0.2042058383676316,Number of bureau A credit records
+ap1_annuity_853A_mean,0.15019566010883062,Average annuity in previous applications
+ap1_cancelreason_3545846M_nunique,0.12858444122022047,Variety of cancellation reasons in past
+ap1_annuity_853A_max,0.11957088453894026,Ap1 Annuity 853A Max
+ap1_credamount_590A_max,0.11097042971500985,Ap1 Credamount 590A Max
+s0_credamount_770A,0.10861724663609428,Current loan credit amount requested
+ap1_credacc_actualbalance_314A_mean,0.10633434256030806,Average actual balance in credit accounts
+ap1_credamount_590A_mean,0.09701682762208096,Average credit amount in previous applications
+ap1_count,0.08433152044865781,Number of previous loan applications
+per1_total_persons,0.0822235823461682,Number of persons in application
+taxb_count,0.066912543517833,Number of tax registry B records
+fe_dayofweek,0.057486712627515237,Fe Dayofweek
+fe_month,0.043073206718301955,Month of loan application
+s0_currdebt_22A,0.03501435840623472,Current outstanding debt amount
+s0_annuity_780A,0.033037861962196366,Monthly annuity of current loan
+taxa_count,0.02946267277480838,Number of tax registry A records
+burb1_count,0.0141373926556205,Number of bureau B credit records
+ap1_actualdpd_943P_mean,0.0026076480395008997,Average days past due in previous loans
+fe_year,0.0008659476209874926,Year of loan application

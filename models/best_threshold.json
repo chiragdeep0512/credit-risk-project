@@ -1,0 +1,29 @@
+{
+  "threshold": 0.5536547610068734,
+  "auc": 0.6598,
+  "f1": 0.0858,
+  "precision": 0.0594,
+  "recall": 0.1549,
+  "feature_cols": [
+    "ap1_cancelreason_3545846M_nunique",
+    "ap1_count",
+    "ap1_credamount_590A_mean",
+    "ap1_annuity_853A_mean",
+    "ap1_credacc_actualbalance_314A_mean",
+    "ap1_actualdpd_943P_mean",
+    "ap1_credamount_590A_max",
+    "ap1_annuity_853A_max",
+    "s0_credamount_770A",
+    "s0_annuity_780A",
+    "s0_currdebt_22A",
+    "burb1_count",
+    "bura1_count",
+    "taxa_count",
+    "taxb_count",
+    "per1_total_persons",
+    "fe_month",
+    "fe_year",
+    "fe_dayofweek",
+    "WEEK_NUM"
+  ]
+}
